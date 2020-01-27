@@ -1,0 +1,26 @@
+---
+title: "partner.Rmd"
+author: "John Nownes"
+date: "1/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Parner File
+
+Partner Name: John Nownes
+
+Partner GitHub username: jnownes
+
+The owner added hw1.Rmd and hw1.html in their most recent commit.
+
+Commit ID: a6d28cb
+
+At first, I was not able to knit Sonia (the owner's) hw1.Rmd. The error was the image that she used in hw1.Rmd came from her local computer, not a link to an online image.
+
+After Sonia added the image to her local git repo and committed it to GitHub, I was able to repull the repo onto my local machine. Then, I was able to successfully knit Sonia's hw1.Rmd file.
+
+One tip to make GitHub easier would be to commit as often as possible, because then your partner has the most current files.
