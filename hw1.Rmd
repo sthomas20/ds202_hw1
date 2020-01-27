@@ -13,9 +13,8 @@ One job that I think is related to data science is a **Data Scientist**. Data sc
     
 ## {.white}
 
-<img class="cover" src="/Users/sonia/Desktop/ds.jpg" alt="">
 
-
+![](ds.jpg)
 
 **Question 4:**
 ```{r}
